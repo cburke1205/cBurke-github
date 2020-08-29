@@ -100,6 +100,7 @@ def parse_data(raw_city_data):
     raw_city_data['day_of_week'] = raw_city_data['start_time'].dt.weekday_name
     raw_city_data['hour'] = raw_city_data['start_time'].dt.hour
 
+    # return results
     return raw_city_data
 
 def filter_data(raw_city_data):
