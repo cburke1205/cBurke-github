@@ -1,14 +1,16 @@
-### Date created August 29, 2020
-Include the date you created this project and README file.
+### Date created
+August 29, 2020
 
-### Colette Burke Github Project
-Replace the Project Title
+### Title
+Colette Burke Github Project
 
-### Add Bikeshare script and data files to github
-Describe what your project is about and what it does
+### description
+Add Bikeshare python script created in project#2 and data files to github
 
-### chicago.csv,new_yor_city.csv, washington.csv
-Include the files used
+###  Files used
+chicago.CSV
+new_york_city.CSV
+washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
